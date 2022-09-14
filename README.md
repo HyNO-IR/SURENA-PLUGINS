@@ -29,31 +29,19 @@
 
 ## INDEX
 
-* [EDITOR](#editor-plugins) 
-* [FORWARD PLUGINS](#forward-plugins)
-* [WHATSAPP RELATED](#whatsapp-related-plugins)
-* [ANIME](#anime-plugins) 
-* [DOWNLOAD PLUGINS](#download-and-converter-plugins)
-* [CONVERTERS](#download-and-converter-plugins)
-* [FUN & PRANK](#fun-and-prank-plugins)
-* [STALKER](#stalker-and-search-plugins)
-* [SEARCH](#stalker-and-search-plugins) 
-* [RANDOM ](#random-images-and-videos)
-* [HEROKU RELATED](#heroku-and-git-related-plugins)
-* [OTHER PLUGINS](#other-usefull-plugins) 
-* 📌 [NON-MD PLUGINS](#non-md-plugins)
+* [EDITOR](#TEST2) 
 
-[ʟʏғᴇ ɢɪᴛ-ᴍᴅ <a href="https://github.com/lyfe00011/whatsapp-bot-md">ᴠɪsɪᴛ <a/> ]<br />
+[SURENA GIT <a href="https://github.com/SURENABOT/SURENA-MD">ᴠɪsɪᴛ <a/> ]<br />
 </p>
 </details>
 
-### FOR PLUGIN EDITING TUTORIAL CLICK BELOW
- <a href="https://youtu.be/9PgSQzQn5Qc"><img src="https://img.shields.io/badge/-watch%20video-critical?style=for-the-badge&logo=youtube&logoColor=white">
+### CANTACT OWNER
+ <br> [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://WA.ME/989389383634)
    <br>
  
 
 ᴄʟɪᴄᴋ ᴡᴀ ʟᴏɢᴏ ᴛᴏ ᴊᴏɪɴ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ 👇 
-<br> [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/Dimr0UROoRGFL58vhGbO7L)
+<br> [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/)
   <div align="center"  
 <h4 align="center">➥ PLUGINS</h1>
 
@@ -68,43 +56,7 @@
 
 >__________________________________
 ADDED
-`Nowa`
-`tomp3`
-`gets`
-`mfancy`
-`GIT CLONE`
-`SCAT`
-`NPACK`
-`OPEN`
-`TO PDF`
-`CKICK`
-`COMMON`
-`diff`
-`pmbc`
-`ipack`
-`Fkick`
-`checknum`
-`PINCODE`
-`NARUTO`
-`PM BLOCKER`
-`ephoto`
-`cs`
-`banchat`
-`button`
-`afd`
-`areact`
-`murl`
-`age`
-`attp`
-`mttp`
-`ttp`
-`MTAG`
-`vcard`
-`msfor`
-` AF`
-`adurtion`
-`nid`
-`asize`
+`SURENA(TEST)`
 >___________________________________
 
 
@@ -114,7 +66,7 @@ ADDED
 >___________________________________
 
 
-<h3 align="center">LYFE00011 MD BOT PLUGINS </h1><a href="https://github.com/mask-sir/LYFE-PLUGINLISTS"><img src="https://img.shields.io/badge/TOTAL%20MD%20PLUGINS%20%3D-121-green">
+<h3 align="center">LYFE00011 MD BOT PLUGINS </h1><a href="https://github.com/HyNO-IR/SURENA-PLUGINS"><img src="https://img.shields.io/badge/TOTAL%20MD%20PLUGINS%20%3D-121-green">
 
 _________________________________________________
 **[⬆ Back to Index](#index)**
@@ -127,7 +79,7 @@ _________________________________________________
 ```js
 SURENA
 ```
-ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : TEXT MAKER PLUGIN<br /> 
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : TEST3<br /> 
 sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : SURENA-MD
 <br />
 <br />
@@ -138,7 +90,7 @@ sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : SURENA-MD
 ```js
 SURENA
 ```
-ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ :TEXT TO IMAGE CONVERTER <br /> 
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ :TEST3 <br /> 
 sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : SURENA-MD
 <br />
 <br />
@@ -149,7 +101,7 @@ sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : SURENA-MD
 ```js
 SURENA
 ```
-ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ :EPHOTO TEXT MAKER <br /> 
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ :TEST3 <br /> 
 sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : SURENA-MD
 <br />
 <br />
