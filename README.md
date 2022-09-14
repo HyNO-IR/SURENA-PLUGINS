@@ -66,7 +66,7 @@ ADDED
 >___________________________________
 
 
-<h3 align="center">LYFE00011 MD BOT PLUGINS </h1><a href="https://github.com/HyNO-IR/SURENA-PLUGINS"><img src="https://img.shields.io/badge/TOTAL%20MD%20PLUGINS%20%3D-121-green">
+<h3 align="center">SURENA MD PLUGINS </h1><a href="https://github.com/HyNO-IR/SURENA-PLUGINS"><img src="https://img.shields.io/badge/TOTAL%20MD%20PLUGINS%20%3D-3-green">
 
 _________________________________________________
 **[⬆ Back to Index](#index)**
